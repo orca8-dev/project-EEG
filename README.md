@@ -12,9 +12,11 @@ Mradul Agarwal
 Kunal Kishor
 
 Mentored by:
+
 Dr. Ashish Sharma
 
 This repository is maintained by:
+
 Kunal Kishor
 
 We are determined to work on this neurotech project and contribute to the community, some of our findings and creations using research done previously. 
