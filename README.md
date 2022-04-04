@@ -24,7 +24,7 @@ Creating and sustaining a framework for EEG data collection using an EEG headgea
 
 Research papers study related to EEG physiological signals: Done (continued throughout the project)
 
-Comparative study of consumer level EEG headgear document: Done
+Comparative study of consumer level EEG headgear document: Done  [Docs]
 
 Exploration of various datasets and research papers available: Done
 
