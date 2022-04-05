@@ -25,6 +25,7 @@ We are determined to work on this neurotech project and contribute to the commun
 
 Creating and sustaining a framework for EEG data collection using an EEG headgear and creating our own custom database for any kind of researches based on EEG physiological signal.
 
+Depression detection using dataset of a human's EEG physiological signal.6
 ## Work progress
 
 Research papers study related to EEG physiological signals: Done (continued throughout the project)
@@ -35,7 +36,7 @@ Exploration of various datasets and research papers available: Done
 
 Implemented the conversion of raw bdf EEG data into a preprocessed data format such as .dat (python) or .mat (matlab): Done
 
-Selection of EEG headgear: To be done
+Selection of EEG headgear: Done [OpenBCi UltraCotrex Mark IV]
 
 Documentation study and framework creation for RAW EEG signal processing and capturing: WIP (Work In Progress)
 
@@ -43,4 +44,4 @@ Headgear and hardware study: To be done
 
 ## Current status
 
-Working on DEAP database and implement Emotional Analysis using python language
+Working on DEAP database and implementing Emotional Analysis using python language
